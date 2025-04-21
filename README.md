@@ -20,7 +20,7 @@
 
 &nbsp;
 
-<h4 align="center">📄&nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!</h4>
+<h4 align="center">📄&nbsp;Please have a look at my [Résumé](---) for more details about me. I'm open to feedback and suggestions!</h4>
 
 <h2 align="center"> FORMACIÓN Y CURSOS REALIZADOSs: </h2>
 <h3> Cursos de Desarrollo Web y Full Stack</h3>
