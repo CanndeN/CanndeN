@@ -62,7 +62,7 @@
     <li><strong>Descripción:</strong> Formación intensiva en JavaScript, HTML/CSS, Node.js, Electron, React, C++, Pascal, y más.</li>
   </ul>
 </div>
-
+<h3>🗄️ ERP y CRM</h3>
 <hr>
 
 <h3>🧩 Cursos de Frameworks y Librerías:</h3>
